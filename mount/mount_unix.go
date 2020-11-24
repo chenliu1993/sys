@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"sort"
 
-	"github.com/moby/sys/mountinfo"
+	"github.com/chenliu1993/sys/mountinfo"
 	"golang.org/x/sys/unix"
 )
 

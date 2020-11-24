@@ -8,7 +8,7 @@ import (
 	"path"
 	"testing"
 
-	"github.com/moby/sys/mountinfo"
+	"github.com/chenliu1993/sys/mountinfo"
 )
 
 func TestMountOptionsParsing(t *testing.T) {
