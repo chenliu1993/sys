@@ -1,4 +1,4 @@
-module github.com/moby/sys/mountinfo
+module github.com/chenliu1993/sys/mountinfo
 
 go 1.14
 
