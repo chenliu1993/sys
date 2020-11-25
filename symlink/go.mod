@@ -1,4 +1,4 @@
-module github.com/chenliu1993/sys/symlink
+module github.com/moby/sys/symlink
 
 go 1.13
 
